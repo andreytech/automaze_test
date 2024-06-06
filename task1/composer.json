@@ -1,0 +1,12 @@
+{
+    "name": "presto5/task1",
+    "authors": [
+        {
+            "name": "Andrey Khomyakov",
+            "email": "yourwebwizard@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.8"
+    }
+}
